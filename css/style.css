@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+footer{
+    display: flex;
+    margin-top: 40px;
+    background-color: rgb(241, 210, 130);
+    justify-content: center;
+    align-items: center;
+}
